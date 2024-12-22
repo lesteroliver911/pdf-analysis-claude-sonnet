@@ -13,6 +13,9 @@ This project is inspired by and built upon Anthropic's [PDF Support Documentatio
 - **Vector Embeddings**: Uses OpenAI's text-embedding-3-small model for document indexing
 - **User-Friendly Interface**: Clean Streamlit UI with sidebar controls
 
+## Screenshot
+![PDF Analysis with Claude Interface](https://github.com/lesteroliver911/pdf-analysis-claude-sonnet/blob/main/pdf_analysiswithclaude.png)
+
 ## Prerequisites
 
 Before running the application, make sure you have:
